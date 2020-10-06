@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tompt\\source\\repos\\StartDevops2\\StartDevops2\\StartDevops2.csproj",
+      "projectUniqueName": "D:\\azure_devops\\StartDevOps2\\StartDevops2\\StartDevops2\\StartDevops2.csproj",
       "projectName": "StartDevops2",
-      "projectPath": "C:\\Users\\tompt\\source\\repos\\StartDevops2\\StartDevops2\\StartDevops2.csproj",
+      "projectPath": "D:\\azure_devops\\StartDevOps2\\StartDevops2\\StartDevops2\\StartDevops2.csproj",
       "packagesPath": "C:\\Users\\tompt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tompt\\source\\repos\\StartDevops2\\StartDevops2\\obj\\",
+      "outputPath": "D:\\azure_devops\\StartDevOps2\\StartDevops2\\StartDevops2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
