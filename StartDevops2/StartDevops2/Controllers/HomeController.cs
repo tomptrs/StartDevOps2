@@ -14,7 +14,7 @@ namespace StartDevops2.Controllers
     /*
      * feature X - 1
      * feature Y -5
-     * feature 7
+     * feature ZEVEN - task 9 en task 10
      */
     
     public class HomeController : Controller
